@@ -1,0 +1,109 @@
+body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    color: #66BFBF;
+    font-size: 5.625rem;
+    margin: 50 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+
+h2{
+    color: #66BFBF ;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+p{
+    line-height: 2;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.top-container{
+    position: relative;
+    padding-top: 100px;
+    background-color: #C8E3D4;
+}
+
+.middle-container{
+    margin:100px 0;
+}
+
+.footer{
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+}
+
+.intro{
+    width: 30%;
+    margin: 40px auto 30px;
+}
+.bottom_cloud{
+    position: absolute;
+    left: 300px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+.coding-img
+{
+    float: right;
+    width: 25%;
+    margin-left: 30px ;
+}
+
+.sport-img{
+    float: left;
+    width: 25%;
+    margin-right: 30px;
+}
+
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.footer-link{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+.footer-link:hover
+{
+    color: #EAF6F6;
+}
+
+.credentials {
+    color: #EAF6F6; 
+}
